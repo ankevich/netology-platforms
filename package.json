@@ -1,0 +1,19 @@
+{
+  "name": "@ankevich/netology-platforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankevich/netology-platforms.git"
+  },
+  "author": "ankevich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankevich/netology-platforms/issues"
+  },
+  "homepage": "https://github.com/ankevich/netology-platforms#readme"
+}
